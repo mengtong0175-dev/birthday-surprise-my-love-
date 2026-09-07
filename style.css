@@ -913,9 +913,9 @@ h2 {
 
 .paper {
 
-    width: min(800px, 100vw);
+    width: min(900px, 150vw);
 
-    padding: 60px;
+    padding: 50px;
 
     position: relative;
 
