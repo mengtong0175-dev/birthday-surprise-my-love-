@@ -913,7 +913,7 @@ h2 {
 
 .paper {
 
-    width: min(650px, 90vw);
+    width: min(800px, 100vw);
 
     padding: 60px;
 
@@ -933,7 +933,7 @@ h2 {
 
     color: #8e1763;
 
-    font-size: 65px;
+    font-size: 50px;
 
     line-height: 1;
 
@@ -947,7 +947,7 @@ h2 {
         Georgia,
         serif;
 
-    font-size: 19px;
+    font-size: 15px;
 
     line-height: 1.5;
 
